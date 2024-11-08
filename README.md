@@ -29,7 +29,6 @@
 
 <br clear="both">
 
-<img src="![Snake animation](https://raw.githubusercontent.com/AxelPj/AxelPj github.io/output/snake.svg)
 ![Snake animation](https://raw.githubusercontent.com/AxelPj/AxelPj/output/snake.svg)
 
 ###
