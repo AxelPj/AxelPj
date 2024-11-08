@@ -31,5 +31,6 @@
 
 <img src="![Snake animation](https://raw.githubusercontent.com/AxelPj/AxelPj github.io/output/snake.svg)
 " alt="Snake animation" />
+![Snake animation](https://raw.githubusercontent.com/AxelPj/AxelPj/output/snake.svg)
 
 ###
