@@ -43,7 +43,7 @@
 ### · · · Featured projects
 
 <p>
-  <a href="https://github.com/AxelPj/barber-hair-salon-website"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AxelPj&repo=barber-hair-salon-website&bg_color=121314&title_color=F4B48C&text_color=B9B4AB&icon_color=E0502C&border_color=2A2B2D&border_radius=14" alt="barber-hair-salon-website" width="49%" /></a>
+  <a href="https://github.com/AxelPj/let-s-practice"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AxelPj&repo=let-s-practice&bg_color=121314&title_color=F4B48C&text_color=B9B4AB&icon_color=E0502C&border_color=2A2B2D&border_radius=14" alt="let-s-practice" width="49%" /></a>
   <a href="https://github.com/AxelPj/BDE-tournament-smash-bros"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AxelPj&repo=BDE-tournament-smash-bros&bg_color=121314&title_color=F4B48C&text_color=B9B4AB&icon_color=E0502C&border_color=2A2B2D&border_radius=14" alt="BDE-tournament-smash-bros" width="49%" /></a>
 </p>
 
