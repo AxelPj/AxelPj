@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner.webp" alt="Axel Petitjean — full-stack developer at 42 Perpignan, founder of Ourobos. De l'idée, à l'écran." width="100%" />
+  <img src="asset/banner.webp" alt="Axel Petitjean — full-stack developer at 42 Perpignan, founder of Ourobos. De l'idée, à l'écran." width="100%" />
 </p>
 
 <p align="center">
@@ -8,8 +8,8 @@
 
 <p align="center">
   <a href="https://ourobos.fr"><img src="https://img.shields.io/badge/ourobos.fr-E0502C?style=for-the-badge&labelColor=E0502C" alt="Website: ourobos.fr" /></a>
-  <a href="LINKEDIN_URL"><img src="https://img.shields.io/badge/LinkedIn-1E1F21?style=for-the-badge" alt="LinkedIn" /></a>
-  <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-1E1F21?style=for-the-badge" alt="Email" /></a>
+  <a href="www.linkedin.com/in/axel-petitjean"><img src="https://img.shields.io/badge/LinkedIn-1E1F21?style=for-the-badge" alt="LinkedIn" /></a>
+  <a href="mailto:contact@ourobos.fr"><img src="https://img.shields.io/badge/Email-1E1F21?style=for-the-badge" alt="Email" /></a>
 </p>
 
 <br />
@@ -67,5 +67,5 @@
 </p>
 
 <p align="center">
-  <img src="assets/footer.png" alt="De l'idée, à l'écran." width="460" />
+  <img src="asset/footer.png" alt="De l'idée, à l'écran." width="460" />
 </p>
