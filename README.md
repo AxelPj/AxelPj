@@ -63,7 +63,7 @@
 <br />
 
 <p align="center">
-  <img src="assets/snake.svg" alt="An orange snake eating a grid of dots — like the ouroboros" width="100%" />
+  <img src="asset/snake.svg" alt="An orange snake eating a grid of dots — like the ouroboros" width="100%" />
 </p>
 
 <p align="center">
