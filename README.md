@@ -63,7 +63,7 @@
 <br />
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/AxelPj/AxelPj/output/github-snake-ourobos.svg" alt="A snake eating my contribution graph — like the ouroboros" width="100%" />
+  <img src="assets/snake.svg" alt="An orange snake eating a grid of dots — like the ouroboros" width="100%" />
 </p>
 
 <p align="center">
